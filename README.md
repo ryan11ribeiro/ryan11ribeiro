@@ -44,12 +44,14 @@ A inteligência de vendas.
 - **O que faz:** Script autônomo que monitora a previsão do tempo e gera campanhas de marketing contextualizadas usando IA Generativa para evitar cadeiras vazias em dias de chuva.
 
 ---
-### ⚡ Estatísticas do GitHub
+### ⚡ Estatísticas
 
 <div align="center">
-[![Ryan's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=ryan11ribeiro&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ryan11ribeiro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryan11ribeiro&layout=compact&theme=tokyonight"/>
 </div>
 
+---
 
 ### 📫 Contato
 
