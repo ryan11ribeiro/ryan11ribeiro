@@ -1,51 +1,55 @@
 # Olá, eu sou o Ryan! 👋
 
-Sou estudante de **Ciência da Computação** (3º período) e apaixonado por desenvolvimento de software. Atualmente, meu foco principal é me especializar como **Desenvolvedor Fullstack**, construindo aplicações completas do banco de dados ao front-end.
+Sou estudante de **Ciência da Computação** (3º período). 
 
+Meu foco é o desenvolvimento **Fullstack** aliado à **Automação Inteligente**. Gosto de construir sistemas robustos e depois usar dados/IA para fazê-los trabalharem sozinhos.
 ---
 
 ### 🛠️ Arsenal Tecnológico
 
 Aqui estão as tecnologias que eu uso no meu dia a dia de estudos e projetos:
 
-**Foco Atual (Aprofundando):**
+**Foco Atual (Fullstack & Automação):**
 <div style="display: inline_block">
   <img align="center" alt="Ryan-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   <img align="center" alt="Ryan-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Ryan-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Ryan-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="Ryan-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img align="center" alt="Ryan-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img align="center" alt="Ryan-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Ryan-Postgres" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
 </div>
 
 <br>
 
-**Já tive contato / Conhecimentos Básicos:**
+**Base Sólida / Acadêmica:**
 <div style="display: inline_block">
-  <img align="center" alt="Ryan-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-  <img align="center" alt="Ryan-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Ryan-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="center" alt="Ryan-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="Ryan-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="Ryan-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
 </div>
 
 ---
 
-### 🔭 Projetos em Destaque
+### 🚀 Ecossistema BarberMan
 
-#### 💈 [BarberMan API](https://github.com/ryan11ribeiro/BarberMan)
-Um sistema completo para gerenciamento de barbearias.
-- **O que eu fiz:** API RESTful com Node.js, TypeScript e Express.
-- **Destaques:** Arquitetura em camadas, relacionamentos SQL com Prisma, validações de regra de negócio e integração com Frontend via Fetch API.
+Estou desenvolvendo um ecossistema de soluções para barbearias que integra gestão e inteligência:
+
+#### 💈 [1. BarberMan (Sistema Web)](https://github.com/ryan11ribeiro/BarberMan))
+A espinha dorsal do negócio.
+- **Tech:** Node.js, React, TypeScript, Prisma, Tailwind.
+- **O que faz:** Gestão completa de agendamentos com validação de conflitos de horário e autenticação segura.
+
+#### 🧠 [2. Smart Marketing AI (Automação)](https://github.com/ryan11ribeiro/BarberMan-MarketingIA))
+A inteligência de vendas.
+- **Tech:** Python, Groq API (Llama 3), .
+- **O que faz:** Script autônomo que monitora a previsão do tempo e gera campanhas de marketing contextualizadas usando IA Generativa para evitar cadeiras vazias em dias de chuva.
 
 ---
-
 ### ⚡ Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ryan11ribeiro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryan11ribeiro&layout=compact&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ryan11ribeiro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryan11ribeiro&layout=compact&theme=tokyonight"/>
 </div>
-
 ---
 
 ### 📫 Contato
