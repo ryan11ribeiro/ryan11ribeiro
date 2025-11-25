@@ -38,7 +38,7 @@ A espinha dorsal do negócio.
 - **Tech:** Node.js, React, TypeScript, Prisma, Tailwind.
 - **O que faz:** Gestão completa de agendamentos com validação de conflitos de horário e autenticação segura.
 
-#### 🧠 [2. Smart Marketing AI (Automação)](https://github.com/ryan11ribeiro/BarberMan-MarketingIA))
+#### 🧠 [2. BarberMan Marketing AI (Automação)](https://github.com/ryan11ribeiro/BarberMan-MarketingIA))
 A inteligência de vendas.
 - **Tech:** Python, Groq API (Llama 3), .
 - **O que faz:** Script autônomo que monitora a previsão do tempo e gera campanhas de marketing contextualizadas usando IA Generativa para evitar cadeiras vazias em dias de chuva.
